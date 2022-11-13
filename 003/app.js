@@ -5,5 +5,5 @@ function Somar(){
      
     let total = (parseFloat(valor1) + parseFloat(valor2))
 
-    document.getElementById('resposta').innerHTML = total
+    document.getElementById('resultado').innerHTML = total
 }
